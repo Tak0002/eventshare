@@ -7,14 +7,12 @@
 
 cakephp2で作成されてます。
 
-![screenshot](screenshot/screenshot_0.png)
+![screenshot](screenshot/screenshot_8.png)
 ![screenshot](screenshot/screenshot_1.png)
 ![screenshot](screenshot/screenshot_2.png)
 ![screenshot](screenshot/screenshot_3.png)
-![screenshot](screenshot/screenshot_4.png)
 ![screenshot](screenshot/screenshot_5.png)
 ![screenshot](screenshot/screenshot_7.png)
-![screenshot](screenshot/screenshot_8.png)
 ![screenshot](screenshot/screenshot_9.png)
 ![screenshot](screenshot/screenshot_10.png)
 
